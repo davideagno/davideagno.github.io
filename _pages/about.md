@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Department of Statistical Sciences of University of Padova, working under the supervision of Prof. Bruno Scarpa and Prof. Tommaso Rigon.
+I am a PhD student at the Department of Statistical Sciences of University of Padova, working under the supervision of Prof. [Bruno Scarpa]("https://homes.stat.unipd.it/brunoscarpa/") and Prof. [Tommaso Rigon]("https://tommasorigon.github.io/").
 
 Research interests
 ----
@@ -25,6 +25,8 @@ Education
 * Bachelor's Degree in Statistics for Economics and Business, University of Padova, 2016-2019<br />
   *Thesis: The use of *All-Resolution Inference* for fMRI images without smoothing*<br />
   *Supervisor: Prof. Livio Finos*
+
+* See my full CV here
 
 Talks
 ----
