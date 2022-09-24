@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Department of Statistical Sciences of University of Padova, working under the supervision of Prof. [Bruno Scarpa]("https://homes.stat.unipd.it/brunoscarpa/") and Prof. [Tommaso Rigon]("https://tommasorigon.github.io").
+I am a PhD student at the Department of Statistical Sciences of University of Padova, working under the supervision of Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa) and Prof. [Tommaso Rigon](https://tommasorigon.github.io).
 
 Research interests
 ----
