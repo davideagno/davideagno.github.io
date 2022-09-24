@@ -11,13 +11,13 @@ redirect_from:
 I am a PhD student at the Department of Statistical Sciences of University of Padova, working under the supervision of Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa) and Prof. [Tommaso Rigon](https://tommasorigon.github.io).
 
 Research interests
-----
+--
 * Bayesian statistics
 * Mixture models
 * Computational statistics
 
 Education
-----
+--
 * Ph.D in Statistics, University of Padova, 2021-ongoing
 * Master's Degree in Statistical Sciences, University of Padova, 2019-2021<br />
   *Thesis: Analysis of mortality curves: nonparametric density estimation using a Bayesian approach*<br />
@@ -29,7 +29,7 @@ Education
 * See my full CV here
 
 Talks
-----
+--
 * Estimation of mortality curves using a Dirichlet Process prior<br />
   *SELECT Climbing Mortality Models*<br />
   *2022/09/02 - Misurina (Italy)*
