@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics for Economics and Business, University of Padova, 2016-2019
-* M.S. in Statistical Sciences, University of Padova, 2019-2021
 * Ph.D in Statistics, University of Padova, 2021-ongoing
+* Master's Degree in Statistical Sciences, University of Padova, 2019-2021
+* Bachelor's Degree in Statistics for Economics and Business, University of Padova, 2016-2019
+
   
 Skills
 ======
