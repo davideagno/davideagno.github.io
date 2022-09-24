@@ -29,7 +29,7 @@ Education
   :   *Thesis: The use of All-Resolution Inference for fMRI images without smoothing*<br />
   :   *Supervisor: Prof. Livio Finos*
 
-* See my full CV here
+* See my full CV [here]("files/CURRICULUM.pdf")
 
 Talks
 --
