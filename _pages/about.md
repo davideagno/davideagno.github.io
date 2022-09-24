@@ -19,15 +19,15 @@ Research interests
 Education
 --
 * Ph.D in Statistics<br />
-  University of Padova, 2021-ongoing
+  :   University of Padova, 2021-ongoing
 * Master's Degree in Statistical Sciences<br />
   :   University of Padova, 2019-2021<br />
   :   *Thesis: Analysis of mortality curves: nonparametric density estimation using a Bayesian approach*<br />
   :   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon*
 * Bachelor's Degree in Statistics for Economics and Business<br />
-  University of Padova, 2016-2019<br />
-  *Thesis: The use of All-Resolution Inference for fMRI images without smoothing*<br />
-  *Supervisor: Prof. Livio Finos*
+  :   University of Padova, 2016-2019<br />
+  :   *Thesis: The use of All-Resolution Inference for fMRI images without smoothing*<br />
+  :   *Supervisor: Prof. Livio Finos*
 
 * See my full CV here
 
