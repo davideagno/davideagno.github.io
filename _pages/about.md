@@ -34,7 +34,7 @@ Education
 Talks
 --
 * Estimation of mortality curves using a Dirichlet Process prior<br />
-  *SELECT Climbing Mortality Models*<br />
+  *[SELECT Climbing Mortality Models](https://selectprin.github.io/Meeting3.html)*<br />
   *2022/09/02 - Misurina (Italy)*
 
 
