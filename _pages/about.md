@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Normale
+I am a PhD student at the Department of Statistical Sciences of University of Padova, working under the supervision of Prof. Bruno Scarpa and Prof. Tommaso Rigon.
 
-Con uguale sotto
-======
-bla bla
+Research interests
+----
+1. Bayesian statistics
+1. Mixture models
+1. Computational statistics
 
-Con trattino sotto
-------
-bla bla
+Education
+----
 
-**Markdown generator**
-bla bla
