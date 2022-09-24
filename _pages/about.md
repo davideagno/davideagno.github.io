@@ -18,9 +18,9 @@ Research interests
 
 Education
 --
-* Ph.D in Statistics<br />
+* [x] Ph.D in Statistics<br />
   :   University of Padova, 2021-ongoing
-* Master's Degree in Statistical Sciences<br />
+* [ ] Master's Degree in Statistical Sciences<br />
   :   University of Padova, 2019-2021<br />
   :   *Thesis: Analysis of mortality curves: nonparametric density estimation using a Bayesian approach*<br />
   :   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon*
