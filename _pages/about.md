@@ -22,8 +22,7 @@ Education
 * Master's Degree in Statistical Sciences, University of Padova, 2019-2021
   *Thesis: title*
   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon*
-* Bachelor's Degree in Statistics for Economics and Business, University of Padova, 2016-2019
-
+* Bachelor's Degree in Statistics for Economics and Business, University of Padova, 2016-2019<br />
   *Thesis:*
   
   *Supervisor: Prof. Livio Finos*
