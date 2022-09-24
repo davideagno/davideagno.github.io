@@ -12,8 +12,8 @@ I am a PhD student at the Department of Statistical Sciences of University of Pa
 
 Research interests
 --
-* Bayesian statistics
-* Mixture models
+* Bayesian inference
+* Robust statistics
 * Computational statistics
 
 Education
