@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/) of [University of Padova](https://www.unipd.it/en/), where I am supervised by Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa). 
 
-I am currently a visiting graduate student at the [Department of Stastical Science]() of Duke University, working with Prof. [David Dunson](https://www.daviddunson.com/) and Prof. Prof. [Tommaso Rigon](https://tommasorigon.github.io).
+I am currently a visiting graduate student at the [Department of Stastical Science](https://stat.duke.edu/) of Duke University, working with Prof. [David Dunson](https://www.daviddunson.com/) and Prof. Prof. [Tommaso Rigon](https://tommasorigon.github.io).
 
 I am a silent guy, but I can speak for days about sports and mountains.
 
@@ -19,6 +19,7 @@ Research interests
 --
 * Bayesian inference
 * Generalized Bayes methods
+* Bayesian predictive approaches
 
 
 Education
@@ -35,6 +36,13 @@ Education
   :   *Supervisor: Prof. Livio Finos*
 
 * See my full CV [here](/files/CURRICULUM.pdf)
+
+
+Pubblications and preprints
+--
+* Agnoletto, D., Rigon, T. and Dunson, D. B. (2023+). Bayesian inference for generalized linear models via quasi-posteriors. Submitted. [\[ArXiv\]](https://arxiv.org/abs/2311.00820)<br />
+
+* GG
 
 Talks
 --
