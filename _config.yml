@@ -86,7 +86,7 @@ author:
   location         : "University of Padova"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=1pi65yYAAAAJ&hl=it"
   email            : "davide.agnoletto.2@phd.unipd.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
