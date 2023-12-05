@@ -25,7 +25,8 @@ Research interests
 Education
 --
 * Ph.D in Statistics<br />
-  :   University of Padova, 2021-ongoing
+  :   University of Padova, 2021-ongoing<br />
+  :   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon, Prof. David Dunson*
 * Master's Degree in Statistical Sciences<br />
   :   University of Padova, 2019-2021<br />
   :   *Thesis: Analysis of mortality curves: nonparametric density estimation using a Bayesian approach*<br />
@@ -41,13 +42,5 @@ Education
 Pubblications and preprints
 --
 * Agnoletto, D., Rigon, T. and Dunson, D. B. (2023+). Bayesian inference for generalized linear models via quasi-posteriors. Submitted. [\[ArXiv\]](https://arxiv.org/abs/2311.00820)<br />
-
-* GG
-
-Talks
---
-* Estimation of mortality curves using a Dirichlet Process prior<br />
-  *[SELECT Climbing Mortality Models](https://selectprin.github.io/Meeting3.html)*<br />
-  *2022/09/02 - Misurina (Italy)*
 
 
