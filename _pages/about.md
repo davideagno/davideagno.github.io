@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/) of [University of Padova](https://www.unipd.it/en/), where I am supervised by Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa). 
+I am a PhD student at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/) of [University of Padova](https://www.unipd.it/en/), where I am supervised by Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa.html). 
 
 I am currently a visiting graduate student at the [Department of Stastical Science](https://stat.duke.edu/) of Duke University, working with Prof. [David Dunson](https://www.daviddunson.com/) and Prof. Prof. [Tommaso Rigon](https://tommasorigon.github.io).
 
