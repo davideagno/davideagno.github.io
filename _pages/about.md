@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral associate at the [Department of Statistical Science] of [Duke University](https://www.unipd.it/en/), where I work with Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa.html). 
+I am a Postdoctoral associate at the Department of Statistical Science of Duke University, where I work with Prof. David Dunson.
 
 I am a silent guy, but I can speak for days about sports and [mountains](https://maphub.net/davide_agnoletto/escursioni).
 
