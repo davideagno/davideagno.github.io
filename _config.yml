@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Davide Agnoletto"   # SIDEBAR NAME
   avatar           : "prova_pic.jpg"      # PROFILE PIC
-  bio              : "PhD Student"        # Bio sidebar
-  location         : "University of Padova"
+  bio              : "Postdoc"        # Bio sidebar
+  location         : "Duke University"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1pi65yYAAAAJ&hl=it"
