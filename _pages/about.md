@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/) of [University of Padova](https://www.unipd.it/en/), where I am supervised by Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa.html). 
-
-I am currently a visiting graduate student at the [Department of Stastical Science](https://stat.duke.edu/) of Duke University, working with Prof. [David Dunson](https://www.daviddunson.com/) and Prof. [Tommaso Rigon](https://tommasorigon.github.io).
+I am a Postdoctoral associate at the [Department of Statistical Science] of [Duke University](https://www.unipd.it/en/), where I work with Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa.html). 
 
 I am a silent guy, but I can speak for days about sports and [mountains](https://maphub.net/davide_agnoletto/escursioni).
 
@@ -25,7 +23,7 @@ Research interests
 Education
 --
 * Ph.D in Statistics<br />
-  :   University of Padova, 2021-ongoing<br />
+  :   University of Padova, 2021-2024<br />
   :   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon, Prof. David Dunson*
 * Master's Degree in Statistical Sciences<br />
   :   University of Padova, 2019-2021<br />
