@@ -39,6 +39,6 @@ Education
 
 Pubblications and preprints
 --
-* Agnoletto, D., Rigon, T. and Dunson, D. B. (2023+). Bayesian inference for generalized linear models via quasi-posteriors. Submitted. [\[ArXiv\]](https://arxiv.org/abs/2311.00820)<br />
+* Agnoletto, D., Rigon, T. and Dunson, D. B. (2025). Bayesian inference for generalized linear models via quasi-posteriors. *Biometrika*, to appear [\[ArXiv\]](https://arxiv.org/abs/2311.00820)<br />
 
 
