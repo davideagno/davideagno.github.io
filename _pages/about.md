@@ -12,6 +12,8 @@ I am a Postdoctoral associate at the Department of Statistical Science of Duke U
 
 Typically silent, but I can speak for days about sports and [mountains](https://maphub.net/davide_agnoletto/escursioni).
 
+See my full CV [here](/files/CURRICULUM.pdf).
+
 
 Research interests
 --
@@ -28,8 +30,6 @@ Education
   :   University of Padova, 2019-2021, *Supervisors: Bruno Scarpa, Tommaso Rigon*<br />
 * BSc in Statistics for Economics and Business<br />
   :   University of Padova, 2016-2019, *Supervisor: Livio Finos*<br />
-
-* See my full CV [here](/files/CURRICULUM.pdf)
 
 
 Pubblications and preprints
