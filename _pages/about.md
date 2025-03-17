@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral associate at the Department of Statistical Science of Duke University, where I work with Prof. David Dunson.
+I am a Postdoctoral associate at the Department of Statistical Science of Duke University, where I work with David Dunson and Amy Herring.
 
-I am a silent guy, but I can speak for days about sports and [mountains](https://maphub.net/davide_agnoletto/escursioni).
+Typically silent, but I can speak for days about sports and [mountains](https://maphub.net/davide_agnoletto/escursioni).
 
 
 Research interests
@@ -23,16 +23,11 @@ Research interests
 Education
 --
 * Ph.D in Statistics<br />
-  :   University of Padova, 2021-2024<br />
-  :   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon, Prof. David Dunson*
+  :   University of Padova, 2021-2024, *Supervisors: Bruno Scarpa, Tommaso Rigon, David Dunson*<br />
 * Master's Degree in Statistical Sciences<br />
-  :   University of Padova, 2019-2021<br />
-  :   *Thesis: Analysis of mortality curves: nonparametric density estimation using a Bayesian approach*<br />
-  :   *Supervisors: Prof. Bruno Scarpa, Prof. Tommaso Rigon*
+  :   University of Padova, 2019-2021, *Supervisors: Bruno Scarpa, Tommaso Rigon*<br />
 * Bachelor's Degree in Statistics for Economics and Business<br />
-  :   University of Padova, 2016-2019<br />
-  :   *Thesis: The use of All-Resolution Inference for fMRI images without smoothing*<br />
-  :   *Supervisor: Prof. Livio Finos*
+  :   University of Padova, 2016-2019, *Supervisor: Livio Finos*<br />
 
 * See my full CV [here](/files/CURRICULUM.pdf)
 
