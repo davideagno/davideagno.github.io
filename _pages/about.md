@@ -22,11 +22,11 @@ Research interests
 
 Education
 --
-* Ph.D in Statistics<br />
+* PhD in Statistics
   :   University of Padova, 2021-2024, *Supervisors: Bruno Scarpa, Tommaso Rigon, David Dunson*<br />
-* Master's Degree in Statistical Sciences<br />
+* MSc in Statistical Sciences<br />
   :   University of Padova, 2019-2021, *Supervisors: Bruno Scarpa, Tommaso Rigon*<br />
-* Bachelor's Degree in Statistics for Economics and Business<br />
+* BSc in Statistics for Economics and Business<br />
   :   University of Padova, 2016-2019, *Supervisor: Livio Finos*<br />
 
 * See my full CV [here](/files/CURRICULUM.pdf)
