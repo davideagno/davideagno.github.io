@@ -14,7 +14,7 @@ I completed my PhD in Statistics at the University of Padova, under the supervis
 
 Outside Statistics, I love [trekking](https://maphub.net/davide_agnoletto/escursioni) and talking about sports.
 
-See my (not always) up-to-date CV [here](/files/CURRICULUM_2.pdf).
+See my (not always) up-to-date CV [here](/files/CV.pdf).
 
 
 Research interests
