@@ -18,7 +18,7 @@ See my (not always) up-to-date CV [here](/files/CV.pdf).
 
 
 Research interests
---
+---
 * Bayesian inference
 * Bayesian predictive approaches
 * Generalized Bayes methods
