@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "default"
 title                    : "Davide Agnoletto"
 title_separator          : "-"
 name                     : &name "Davide Agnoletto"
