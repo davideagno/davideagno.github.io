@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Davide Agnoletto"
 excerpt: "About me"
 author_profile: true
 ---
