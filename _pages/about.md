@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
+
 I am a Postdoctoral associate at the Department of Statistical Science of Duke University, where I work with David Dunson.
 
 I completed my PhD in Statistics at the University of Padova, under the supervision of Bruno Scarpa, Tommaso Rigon and David Dunson.
