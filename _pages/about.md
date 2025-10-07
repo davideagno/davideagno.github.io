@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Davide Agnoletto"
-excerpt: "Davide Agnoletto"
+excerpt: ""
 author_profile: true
 ---
 
@@ -15,8 +15,10 @@ Outside Statistics, I love [trekking](https://maphub.net/davide_agnoletto/escurs
 See my (not always) up-to-date CV [here](/files/CV.pdf).
 
 
+
+
 Research interests
-======
+========
 * Bayesian inference
 * Bayesian predictive approaches
 * Generalized Bayes methods
