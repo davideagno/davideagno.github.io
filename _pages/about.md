@@ -10,7 +10,7 @@ I am a Postdoctoral associate at the Department of Statistical Science of Duke U
 
 I completed my PhD in Statistics at the University of Padova, under the supervision of Bruno Scarpa, Tommaso Rigon and David Dunson.
 
-Outside Statistics, I love [trekking](https://maphub.net/davide_agnoletto/escursioni) and talking about sports.
+Outside Statistics, I love trekking and talking about sports.
 
 See my (not always) up-to-date CV [here](/files/CV.pdf).
 
