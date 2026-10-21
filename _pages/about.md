@@ -23,7 +23,7 @@ Research interests
 * Generalized Bayes methods
 
 
-Pubblications
+Publications
 ----
 * Agnoletto, D., Rigon, T., and Dunson, D. B. (2026). Nonparametric predictive inference for discrete data via Metropolis-adjusted Dirichlet sequences. *Journal of the American Statistical Association*, 1–14. [\[Link\]]( https://doi.org/10.1080/01621459.2026.2662438)<br />
 * Agnoletto, D., Rigon, T., and Dunson, D. B. (2025). Bayesian inference for generalized linear models via quasi-posteriors. *Biometrika*, 112(2). [\[Link\]](https://academic.oup.com/biomet/article-abstract/112/2/asaf022/8098046)<br />
