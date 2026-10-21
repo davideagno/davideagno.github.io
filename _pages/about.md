@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-Research interests
+About me
 ----
 
 I am a Postdoctoral associate at the Department of Statistical Science of Duke University, where I work with David Dunson.
