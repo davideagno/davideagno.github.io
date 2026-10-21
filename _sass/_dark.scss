@@ -1,0 +1,209 @@
+/* ==========================================================================
+   DARK THEME
+   Overrides the light colors of the theme. To go back to the light
+   theme, remove the line @import "dark"; from assets/css/main.scss
+   ========================================================================== */
+
+$dark-bg          : #1a1c1f;
+$dark-surface     : #24272b;
+$dark-surface-2   : #2f3337;
+$dark-border      : #3a3f44;
+$dark-text        : #d3d6da;
+$dark-heading     : #f0f2f4;
+$dark-muted       : #9ba3aa;
+$dark-link        : #6cc3dd;
+$dark-link-hover  : #9ad6e8;
+
+html,
+body {
+  background-color: $dark-bg;
+  color: $dark-text;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $dark-heading;
+}
+
+a {
+  color: $dark-link;
+
+  &:hover {
+    color: $dark-link-hover;
+  }
+}
+
+hr {
+  border-top-color: $dark-border;
+}
+
+.page__content h2 {
+  border-bottom-color: $dark-border;
+}
+
+.page__meta,
+.archive__subtitle {
+  color: $dark-muted;
+}
+
+.archive__subtitle {
+  border-bottom-color: $dark-border;
+}
+
+.page__taxonomy-item {
+  border-color: $dark-border;
+}
+
+figcaption {
+  color: $dark-muted;
+
+  a:hover {
+    color: $dark-heading;
+    border-bottom-color: $dark-heading;
+  }
+}
+
+/* code */
+
+tt, code, kbd, samp, pre,
+div.highlighter-rouge, figure.highlight {
+  background-color: $dark-surface;
+  border-color: $dark-border;
+  color: $dark-text;
+}
+
+div.highlighter-rouge:before, figure.highlight:before {
+  background-color: $dark-surface-2;
+}
+
+/* tables */
+
+table, th, td, thead {
+  border-color: $dark-border;
+}
+
+thead {
+  background-color: $dark-surface;
+}
+
+/* forms */
+
+input, textarea, select {
+  background-color: $dark-surface;
+  border-color: $dark-border;
+  color: $dark-text;
+}
+
+/* notices */
+
+.notice, .notice--primary, .notice--info, .notice--warning,
+.notice--success, .notice--danger {
+  background-color: $dark-surface;
+  color: $dark-text;
+}
+
+/* sidebar and profile */
+
+.author__avatar img {
+  border-color: $dark-border;
+}
+
+.author__urls {
+  background: $dark-surface;
+  border-color: $dark-border;
+
+  &:before {
+    border-color: $dark-border transparent;
+  }
+
+  &:after {
+    border-color: $dark-surface transparent;
+  }
+
+  @include breakpoint($large) {
+    background: transparent;
+  }
+}
+
+.social-icons {
+  .fa,
+  .fa-github,
+  .fa-github-alt,
+  .fa-github-square {
+    color: $dark-text;
+  }
+}
+
+.btn--inverse {
+  color: $dark-text !important;
+  border: 1px solid $dark-border !important;
+  background-color: $dark-surface;
+
+  &:hover {
+    color: #fff !important;
+    background-color: $dark-surface-2;
+  }
+}
+
+/* navigation */
+
+.masthead {
+  border-bottom-color: $dark-border;
+}
+
+.greedy-nav {
+  background: $dark-bg;
+
+  a {
+    color: $dark-muted;
+
+    &:hover {
+      color: $dark-heading;
+    }
+  }
+
+  .hidden-links {
+    background: $dark-surface;
+    border-color: $dark-border;
+
+    &:before {
+      border-color: $dark-border transparent;
+    }
+
+    &:after {
+      border-color: $dark-surface transparent;
+    }
+
+    a:hover {
+      color: $dark-heading;
+      background: $dark-surface-2;
+    }
+  }
+}
+
+.toc {
+  background-color: $dark-surface;
+  color: $dark-muted;
+  border-color: $dark-border;
+}
+
+.toc__menu a {
+  color: $dark-muted;
+  border-bottom-color: $dark-border;
+
+  &:hover {
+    color: $dark-heading;
+    background: $dark-surface-2;
+  }
+}
+
+/* footer */
+
+.page__footer {
+  color: $dark-muted;
+  background-color: $dark-surface;
+  border-top-color: $dark-border;
+
+  .fas, .fab, .far, .fal {
+    color: $dark-muted;
+  }
+}
