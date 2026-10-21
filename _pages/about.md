@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "Davide Agnoletto"
+title: ""
 excerpt: ""
 author_profile: true
 ---
 
+Research interests
+----
 
 I am a Postdoctoral associate at the Department of Statistical Science of Duke University, where I work with David Dunson.
 
