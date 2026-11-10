@@ -25,7 +25,7 @@ Research interests
 * Generalized Bayes methods
 
 
-Publications
+Publications and preprints
 ----
 * Agnoletto, D., Rigon, T., and Dunson, D. B. (2026+). Martingale posteriors for flexible regression via recursive least squares. *Submitted*.
 * Agnoletto, D., Rigon, T., and Dunson, D. B. (2026). Nonparametric predictive inference for discrete data via Metropolis-adjusted Dirichlet sequences. *Journal of the American Statistical Association*, 1–14. [\[Link\]]( https://doi.org/10.1080/01621459.2026.2662438)<br />
